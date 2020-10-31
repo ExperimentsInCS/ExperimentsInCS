@@ -17,6 +17,11 @@
 ### YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PyGame Programming - Making a Mobile-Style Game](https://www.youtube.com/watch?v=GuCZbPkxrEc)
+- [PyGame Programming - Making an 80s Classic](https://www.youtube.com/watch?v=8fGNv_C70HY)
+- [Kart Racer - Game Dev with Unity/Blender - Part 7: Control Scripts](https://www.youtube.com/watch?v=3kHnNqHs94U)
+- [Kart Racer - Game Dev with Unity/Blender - Part 5: Prepping the Kart in Unity](https://www.youtube.com/watch?v=JICK3LxK3QM)
+- [Kart Racer - Game Dev with Unity/Blender - Part 5: Unity Basics](https://www.youtube.com/watch?v=OGP7mK9tzAk)
 <!-- YOUTUBE:END -->
 
 - [more videos...][youtube]
