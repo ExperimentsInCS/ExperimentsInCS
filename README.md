@@ -7,7 +7,7 @@
 
 ### YouTube Channel
 
-[<img align="left" alt="ExperimentsInCS | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ExperimentsInCS | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> YouTube Channel][youtube]
 
 <br />
 
