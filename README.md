@@ -21,13 +21,13 @@
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
- 
+
 - [more videos...][youtube]
 
 ---
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
